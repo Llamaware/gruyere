@@ -40,7 +40,7 @@ Our “server” has a fantastic feature: it doesn’t exist! That’s right, no
    cd gruyere
    ```
 
-2. **Open it in Your Browser**: Just double-click the `index.html` file and watch the magic unfold. No need for a server—just your trusty browser, pretending this is real.
+2. **Open it in Your Browser**: Just run `python server.py`, open a browser at `localhost:8000`, and watch the magic unfold. No need for a server—just your trusty browser, pretending this is real.
 
 3. **Create an Account**: Enter a username, a password, and prepare to be amazed by the stunning lack of verification.
 
