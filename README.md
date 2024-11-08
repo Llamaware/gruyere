@@ -1,12 +1,6 @@
 # Gruyere
 
-Welcome to **Gruyere**, the most absolutely, positively, definitely *not* a real website you’ll ever encounter! Dive into the deliciously deceptive world of Gruyere, where nothing is as it seems, and the only thing real is our commitment to being fake!
-
-## Table of Contents
-- [Features](#features)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
+Welcome to **Gruyere**, the most absolutely, positively, definitely *not* a real website you’ll ever encounter!
 
 ## Features
 
@@ -46,19 +40,6 @@ Our “server” has a fantastic feature: it doesn’t exist! That’s right, no
 
 4. **Start Snipping!**: Share your most profound thoughts, or simply post your grocery list. It’s all in good fun!
 
-## Contributing
-
-We love contributions! Here’s how you can help:
-- Add more fake features!
-- Create wildly exaggerated marketing materials.
-- Suggest even cheesier puns!
-
-Remember: if it’s not ridiculous, it’s not Gruyere.
-
 ## License
 
 This project is under the **Absolutely Free, Non-Commercial, and Definitely Not Legal License**. Use it, modify it, or ignore it—just don’t take it too seriously!
-
----
-
-Thank you for stopping by Gruyere, the pinnacle of pretend web experiences! Whether you're here for the snippets, the user profiles, or just the sheer absurdity of it all, we hope you enjoy your time in this imaginary land. Bon appétit! 🧀
