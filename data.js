@@ -7,6 +7,30 @@ const DEFAULT_DATA = {
         private_snippet: 'My password is secret. Get it?',
         web_site: 'https://www.google.com/contact/',
     },
+    onehalf: {
+        name: 'onehalf',
+        pw: 'virus.dos',
+        is_author: true,
+        is_admin: true,
+        private_snippet: 'Dis is one half.',
+        web_site: 'https://onehalf.dev/',
+        color: 'purple',
+        snippets: [
+            'Why are you <i>still</i> using Windows 98?! What is wrong with you?! Stop buying computers from thrift stores, man!'
+        ],
+    },
+    basil: {
+        name: 'Basil',
+        pw: 'catgirl',
+        is_author: true,
+        is_admin: false,
+        private_snippet: 'Seems kinda unwise to connect myself to something that has so many security holes..',
+        web_site: 'https://basil.cafe/',
+        color: 'green',
+        snippets: [
+            'But wait! Don\'t breathe yet!'
+        ],
+    },
     cheddar: {
         name: 'Cheddar Mac',
         pw: 'orange',
